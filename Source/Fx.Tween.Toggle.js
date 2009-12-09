@@ -1,3 +1,24 @@
+/*
+---
+
+script: Fx.Tween.Toggle.js
+
+description: description
+
+license: MIT-style license.
+
+authors: Ryan Florence <http://ryanflorence.com>
+
+docs: http://moodocs.net/rpflo/mootools-rpflo/Fx.Tween.Toggle
+
+requires:
+- core:1.2.4
+
+provides: [Fx.Tween.Toggle]
+
+...
+*/
+
 Fx.Tween.Toggle = new Class({
 	
 	Extends: Fx.Tween,

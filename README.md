@@ -3,6 +3,8 @@ Fx.Tween.Toggle
 
 Extends Fx.Tween to store and execute toggling of the effect.
 
+![FitText](http://github.com/rpflorence/Fx.Tween.Toggle/raw/master/logo.png)
+
 ### Example:
 
     var myToggle = new Fx.Tween.Toggle('element',{
@@ -14,5 +16,5 @@ Extends Fx.Tween to store and execute toggling of the effect.
     		// do stuff
     	}
     }).setIn();
-    
+
 View the [MooDoc](http://moodocs.net/rpflo/mootools-rpflo/Fx.Tween.Toggle) for usage and examples.

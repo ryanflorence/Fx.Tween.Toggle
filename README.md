@@ -5,7 +5,8 @@ Extends Fx.Tween to store and execute toggling of the effect.
 
 ![FitText](http://github.com/rpflorence/Fx.Tween.Toggle/raw/master/logo.png)
 
-### Example:
+How to use
+----------
 
     var myToggle = new Fx.Tween.Toggle('element',{
     	property: 'height',
